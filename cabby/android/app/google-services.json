@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897851287299",
+    "firebase_url": "https://gtaxi-6d12c.firebaseio.com",
+    "project_id": "gtaxi-6d12c",
+    "storage_bucket": "gtaxi-6d12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897851287299:android:87a377f4340fc740ce2b36",
+        "android_client_info": {
+          "package_name": "com.example.cabby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897851287299-2jfev7uoofi2b5120c4jlaquaek2uh0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDluzsfhiaAFwPkk25k3ofUGUoISc1Pglo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897851287299-2jfev7uoofi2b5120c4jlaquaek2uh0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
